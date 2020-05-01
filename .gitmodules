@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/hillsthome"]
+	path = wp-content/themes/hillsthome
+	url = https://github.com/Kingsdesign/hill-street-home-theme.git
